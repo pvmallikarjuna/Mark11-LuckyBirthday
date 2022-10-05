@@ -11,10 +11,6 @@
 
 &nbsp;
 
-Emoji Meaning takes Emoji Inputs and provide it's meaning.
-Or you can click the existing Emojis and know their meaning,
-
-Why wait for! Start Emojitioning.
 
 # Learnings:
 HTML, CSS, Javascript

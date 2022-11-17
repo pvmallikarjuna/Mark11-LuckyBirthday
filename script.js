@@ -20,7 +20,7 @@ function compareValues(sum, luckyNumber) {
 function checkBirthIsLucky() {
   const bday = dateOfBirth.value;
   const sum = calculateSum(bday);
-  if (sum && luckyNumber.value) {
+  if (sum && luckyNumber.value!== 0 && luckyNumber.value!== "") {
     compareValues(sum, luckyNumber.value);
   } else {
     outputBox.innerText = "Please enter both the fields 🤬";
